@@ -24,7 +24,7 @@ email: hi@alihong.net
 #   This is where I (hope to eventually) share stuff I'm working on.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aliho.ng" # the base hostname & protocol for your site, e.g. http://example.com
-url_text: ali's homepage
+url_text: home
 # twitter_username: verydopetweets
 # github_username:  hongtron
 
